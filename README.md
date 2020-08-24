@@ -3,7 +3,7 @@
 ## Usage
 
 ```
-git clone https://github.com/iden3/drand_verify.git
+git clone https://github.com/hermeznetwork/drand_verify.git
 cd drand_verify
 npm install
 ```
