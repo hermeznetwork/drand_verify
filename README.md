@@ -23,4 +23,4 @@ node main.js latest
 
 ## License
 
-drand_verify is part of the iden3 project copyright 2020 HermezDAO and published with GPL-3 license. Please check the COPYING file for more details.
+drand_verify is part of the Hermez project copyright 2020 HermezDAO and published with GPL-3 license. Please check the COPYING file for more details.
